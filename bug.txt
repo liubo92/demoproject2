@@ -1,0 +1,5 @@
+add方法出现异常
+异常名称InvocationTargetException
+异常名称/ by zero
+--------------------
+本次执行一共出现：1异常
