@@ -50,6 +50,10 @@ public class ReflectDemo2 {
 
         }
 
+        //
+        String ids="";
+        System.out.println(ids.split(",")[0]);
+
 
 
     }
